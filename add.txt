@@ -1,1 +1,7 @@
-Add feature
+Add feature.
+
+public class add(int a,int b)
+{
+int c=a+b;
+System.out.println(c);
+}
